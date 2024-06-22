@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingOfHell44
 - 👀 I’m interested in Learning Something New
 - 🌱 I’m currently learning Electrical Engineering
-- 💞️ I’m looking to collaborate on DSA ANd Web Development Projects
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me DM ME
 
 <!---
